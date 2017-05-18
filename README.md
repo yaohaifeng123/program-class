@@ -1,2 +1,2 @@
 # program-class
-learn how to program
+the way to learn program
